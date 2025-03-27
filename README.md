@@ -39,7 +39,7 @@ This project is a simple WebSocket implementation to help you learn the basics o
 
 ## Prerequisites 🚀
 
-- **Node.js** (>= 14.0.0)
+- **Node.js** 
 - **npm** or **yarn**
 - Basic understanding of WebSocket communication.
 
